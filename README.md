@@ -85,7 +85,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 Created by [Koppula Rahul Babu](rahulrkgs34@gmail.com)  
-GitHub: [yourusername]([https://github.com/RAHUL-KOPPULA]) 
+GitHub: [Rahul babu Koppula]([https://github.com/RAHUL-KOPPULA]) 
 
 ---
 
